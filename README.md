@@ -76,6 +76,6 @@ Evaluation · Calibration · Human-in-the-loop Workflows
 
 # Connect
 
-- **LinkedIn:** link to be added
+- **LinkedIn:** [linkedin.com/in/hu-xinl-northeastern-edu](https://www.linkedin.com/in/hu-xinl-northeastern-edu/)
 - **Resume:** link to be added
 - **Public email:** address to be added
