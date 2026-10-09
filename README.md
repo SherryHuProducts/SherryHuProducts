@@ -1,81 +1,96 @@
-# Sherry Hu
+<div align="center">
 
-## Finance × Systems × AI
+# Hi, I'm Sherry 👋
+
+### 💰 Finance × ⚙️ Systems × 🤖 AI
 
 I build systems that turn complex financial and operational workflows into structured, automated, and measurable processes.
 
 My work connects financial operations, workflow design, APIs and automation, and human-in-the-loop AI systems.
 
----
+![Finance Systems](https://img.shields.io/badge/Finance_Systems-0F766E?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2563EB?style=flat-square)
+![Backend & APIs](https://img.shields.io/badge/Backend_%26_APIs-7C3AED?style=flat-square)
+![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-C2410C?style=flat-square)
 
-# Featured Work
-
-## Creator Payout & Reconciliation System
-
-**Finance → Rules → Reconciliation → Payment → Webhook**
-
-An automated payout workflow with business-rule validation, reconciliation, idempotent payment-request simulation, webhook confirmation, and automated testing.
-
-Python · Financial Controls · Reconciliation · APIs · Webhooks · Testing
-
-[View Project](https://github.com/SherryHuProducts/creator-payout-ops)
-
-> **Project walkthrough — coming soon**
+</div>
 
 ---
 
-## 15MW Data Center Project Financial Controls
+## Featured Systems
 
-**Project Setup → GMP Baseline → Cost Controls → Forecast**
+### 💸 Creator Payout & Reconciliation
 
-A project-accounting case study modeling the financial-control lifecycle of a synthetic 15MW data center construction project.
+<img src="./assets/creator-payout-lifecycle.svg" alt="Animated creator payout lifecycle from reconciliation through payment and webhook confirmation" width="100%">
 
-**Current status**
+An end-to-end finance operations system that translates payout agreements and accounting rules into validated calculations, reconciliation, approval controls, and traceable payment states. It surfaces exceptions for review, prevents duplicate requests, and verifies final outcomes through webhooks and **60 automated tests**.
 
-Project setup and a formula-driven GMP baseline are implemented. Cost codes, master budget, commitments, change orders, ETC/EAC, variance analysis, and dashboard reporting remain in development.
+`Python` `Financial Controls` `Reconciliation` `Idempotency` `Webhooks` `Pytest`
 
-Excel · Project Accounting · Financial Controls · Budgeting · Forecast Design
-
-[View Project](https://github.com/SherryHuProducts/data-center-project-accounting-case-study)
+**[View Project →](https://github.com/SherryHuProducts/creator-payout-ops)**
 
 ---
 
-## JobFit AI
+### 🤖 JobFit AI
 
-**Discovery → Evaluation → Gap Detection → Calibration → Resume**
+<img src="./assets/jobfit-workflow.svg" alt="JobFit AI workflow from discovery through evaluation, gap detection, calibration, and recommendation" width="100%">
 
-A human-in-the-loop job evaluation system for structured fit scoring, gap detection, calibration, and targeted resume generation.
+Although the domain is job search, this project demonstrates how I build and evaluate AI-assisted workflows: define explicit stages, preserve source evidence, expose unsupported conclusions, and keep high-impact decisions under human review. My public extension adds web-candidate intake, evaluation handoff, provenance-checked resume tailoring, document rendering, and automated tests.
 
-Built as a customized extension of the open-source [Career Ops](https://github.com/career-ops-hq/career-ops) framework. My public contributions add web-candidate intake, an evaluation-handoff contract, provenance-checked resume tailoring, document rendering, and automated tests. Portfolio-specific multi-track scoring and calibration rules remain local configuration and are not published in the repository.
+`Node.js` `Public ATS APIs` `Evaluation Contracts` `Provenance Checks` `Document Rendering` `Automated Tests`
 
-JavaScript · Node.js · Public ATS APIs · Evaluation Contracts · Provenance Checks · Testing
-
-[View Project](https://github.com/SherryHuProducts/JobFit-AI)
+**[View Project →](https://github.com/SherryHuProducts/JobFit-AI)**
 
 ---
 
-# What I Work Across
+### 🏗️ 15MW Data Center Financial Controls · `IN DEVELOPMENT`
 
-## Finance & Operations
+<img src="./assets/data-center-lifecycle.svg" alt="Data center financial controls lifecycle showing implemented and in-development stages" width="100%">
 
-Project Accounting · Reconciliation · Budgeting · Forecasting
+A synthetic 15MW construction case study that turns project financial data into structured budget, cost-control, and forecast workflows. The implemented project setup and formula-driven GMP baseline establish a common financial language for project and finance teams; cost controls, ETC/EAC, and forecasting remain in development.
 
-## Systems & Automation
+`Excel` `Project Accounting` `GMP Baseline` `Cost Control Design` `ETC / EAC` `Forecast Design`
 
-Workflow Design · REST APIs · Webhooks · Data Validation
-
-## Engineering
-
-Python · JavaScript / Node.js · Excel · CSV · Automated Testing
-
-## AI Systems
-
-Evaluation · Calibration · Human-in-the-loop Workflows
+**[View Project →](https://github.com/SherryHuProducts/data-center-project-accounting-case-study)**
 
 ---
 
-# Connect
+## What I Build
 
-- **LinkedIn:** [linkedin.com/in/hu-xinl-northeastern-edu](https://www.linkedin.com/in/hu-xinl-northeastern-edu/)
-- **Resume:** link to be added
-- **Public email:** address to be added
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💰 Financial & Accounting Systems</h3>
+      <p>Reliable calculations, reconciliation, forecasting, and supporting evidence.</p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Workflow Automation</h3>
+      <p>Less manual handling, faster review, and clear approval and exception paths.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔌 Backend & Integrations</h3>
+      <p>Finance workflows connected to APIs and webhooks with traceable state.</p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Evaluation & Controls</h3>
+      <p>Realistic cases, acceptance criteria, failure diagnosis, and human approval.</p>
+    </td>
+  </tr>
+</table>
+
+## How I Think
+
+<img src="./assets/how-i-build.svg" alt="Finance need to workflow mapping, rules and controls, implementation, reconciliation, explanation, and improvement" width="100%">
+
+> I translate accounting judgment into explicit requirements, controls, and acceptance criteria that technical teams can build—and non-finance partners can understand.
+
+## Technology
+
+| Area | Selected tools and methods |
+|---|---|
+| **Finance & accounting** | Reconciliation · Project accounting · Budgeting · Forecasting · Exception review |
+| **Systems & automation** | Python · JavaScript / Node.js · REST APIs · Webhooks · CSV / JSON · Excel |
+| **Evaluation & controls** | Requirements mapping · Acceptance criteria · Human review · Provenance · Automated tests |
+| **Communication** | Decision-ready explanations · Cross-functional handoffs · Clear review paths |
