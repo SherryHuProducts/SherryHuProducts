@@ -4,6 +4,8 @@
 
 ### 💰 Finance × ⚙️ Systems × 🤖 AI
 
+**[Personal website →](https://sherry-hu-personal.xinlei1207.chatgpt.site)** · Background, projects, skills, and learning notes
+
 I build systems that turn complex financial and operational workflows into structured, automated, and measurable processes.
 
 My work connects financial operations, workflow design, APIs and automation, and human-in-the-loop AI systems.
